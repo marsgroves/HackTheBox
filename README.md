@@ -1,4 +1,4 @@
 # HackTheBox
 Hack The Box pen testing and challenges.
 
-Here we have walkthro
+Here we have walkthrou
