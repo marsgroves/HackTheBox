@@ -25,3 +25,5 @@ It is an online platform that consists of virtual machines, and allows you to et
 
 8. makeInviteCode looks interesting. So let’s go back to https://www.hackthebox.eu/invite and try to find its contents.
 9. Next, go to the console tab in Chrome Developer Tools, and type <b>makeInviteCode()</b> and press ENTER. You will get a 200 Success status and data as shown below.
+
+<a href="https://miro.medium.com/max/700/1*aMf_Gn0CLJNpRHVMz5zW5A.jpeg">See the hint and data</a>
