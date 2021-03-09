@@ -10,3 +10,4 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 
         What Is Hack The Box?
 It is an online platform that tests and helps you advance your skills in penetration testing and cybersecurity. 
+It contains a multifarious amount of challenges and various levels of machines of your choice that you can selectively hack (easy, medium, hard).
