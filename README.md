@@ -27,3 +27,5 @@ It is an online platform that consists of virtual machines, and allows you to et
 9. Next, go to the console tab in Chrome Developer Tools, and type <b>makeInviteCode()</b> and press ENTER. You will get a 200 Success status and data as shown below.
 
 <a href="https://miro.medium.com/max/700/1*aMf_Gn0CLJNpRHVMz5zW5A.jpeg">See the hint and data</a>
+
+10. When you click the small arrow alongside data, you will see that the text is encrypted and the encoding type is <b>ROT13</b>.
