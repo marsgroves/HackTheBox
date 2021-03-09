@@ -20,12 +20,12 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 6. Go through the elements tab and find a script with source (src) as: <b>/js/inviteapi.min.js</b>
 7. So now, go to https://www.hackthebox.eu/js/inviteapi.min.js You will see a JS file titled <b>inviteapi.mini.js</b>
 
-<a href="https://miro.medium.com/max/1864/1*pmXbnn4EjGZRKtJTKyYGEA.png">See the makeInviteCode which is highlighted
+<img src="https://miro.medium.com/max/1864/1*pmXbnn4EjGZRKtJTKyYGEA.png">See the makeInviteCode which is highlighted
 </a>
 
 8. makeInviteCode looks interesting. So let’s go back to https://www.hackthebox.eu/invite and try to find its contents.
 9. Next, go to the console tab in Chrome Developer Tools, and type <b>makeInviteCode()</b> and press ENTER. You will get a 200 Success status and data as shown below.
 
-<a href="https://miro.medium.com/max/700/1*aMf_Gn0CLJNpRHVMz5zW5A.jpeg">See the hint and data</a>
+<img src="https://miro.medium.com/max/700/1*aMf_Gn0CLJNpRHVMz5zW5A.jpeg">See the hint and data</a>
 
 10. When you click the small arrow alongside data, you will see that the text is encrypted and the encoding type is <b>ROT13</b>.
