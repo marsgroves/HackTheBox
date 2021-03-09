@@ -9,3 +9,4 @@ In this demo, I will show you how to get started with hacking using Hack The Box
 I'll give you a walkthrough and how you can get your "invite code" to get started. :)
 
         What Is Hack The Box?
+It is an online platform that tests and helps you advance your skills in penetration testing and cybersecurity. 
