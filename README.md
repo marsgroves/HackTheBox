@@ -13,3 +13,4 @@ It is an online platform that consists of virtual machines, and allows you to et
 
         Getting Started
 1. Visit the Hack the Box site at https://www.hackthebox.eu/
+2. Read through its FAQs and check out the other tabs on there to explore what it has to offer if you'd like.
