@@ -18,3 +18,4 @@ It is an online platform that consists of virtual machines, and allows you to et
 4. When you go the invite page, you will see a text box asking you for an "invite code."
 5. Right click on the page, and open "inspect element." Alternatively, press Ctrl+Shift+I to open the Chrome Developers Tools.
 6. Go through the elements tab and find a script with source (src) as: /js/inviteapi.min.js
+7. So now, go to https://www.hackthebox.eu/js/inviteapi.min.js You will see a JS file titled <b>inviteapi.mini.js</b>
