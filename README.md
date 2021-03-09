@@ -22,3 +22,5 @@ It is an online platform that consists of virtual machines, and allows you to et
 
 <a href="https://miro.medium.com/max/1864/1*pmXbnn4EjGZRKtJTKyYGEA.png">See the makeInviteCode which is highlighted
 </a>
+
+8. makeInviteCode looks interesting. So let’s go back to https://www.hackthebox.eu/invite and try to find its contents.
