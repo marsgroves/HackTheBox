@@ -1,7 +1,7 @@
 # HackTheBox
-Hack The Box pen testing and challenges from https://hackthebox.eu
+In this folder, I will demonstrate some Hack The Box pen testing challenges from https://hackthebox.eu
+There will be some walkthroughs that I will include here. But first, let's get started with Hack The Box (HTB)!
 
-Here we have walkthroughs of Hack The Box.
 
 <a href="https://www.youtube.com/watch?v=1t8Mt8wVgiY&t=152s">Hack The Box - Getting Started!</a>
 ^^ In this YouTube demo, I will show you how to get started with hacking using Hack The Box! 
