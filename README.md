@@ -15,9 +15,9 @@ It is an online platform that consists of virtual machines, and allows you to et
 1. Visit the Hack the Box site at https://www.hackthebox.eu/
 2. Read through its FAQs and check out the other tabs on there to explore what it has to offer if you'd like.
 3. You will be told to go to https://www.hackthebox.eu/invite to join Hack The Box (HTB).
-4. When you go the invite page, you will see a text box asking you for an "invite code."
-5. Right click on the page, and open "inspect element." Alternatively, press Ctrl+Shift+I to open the Chrome Developers Tools.
-6. Go through the elements tab and find a script with source (src) as: /js/inviteapi.min.js
+4. When you go the invite page, you will see a text box asking you for an <b>invite code</b>.
+5. Right click on the page, and open <b>inspect element</b>. Alternatively, press Ctrl+Shift+I to open the Chrome Developers Tools.
+6. Go through the elements tab and find a script with source (src) as: <b>/js/inviteapi.min.js</b>
 7. So now, go to https://www.hackthebox.eu/js/inviteapi.min.js You will see a JS file titled <b>inviteapi.mini.js</b>
 
 <a href="https://miro.medium.com/max/1864/1*pmXbnn4EjGZRKtJTKyYGEA.png">See the makeInviteCode which is highlighted
