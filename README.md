@@ -15,3 +15,4 @@ It is an online platform that consists of virtual machines, and allows you to et
 1. Visit the Hack the Box site at https://www.hackthebox.eu/
 2. Read through its FAQs and check out the other tabs on there to explore what it has to offer if you'd like.
 3. You will be told to go to https://www.hackthebox.eu/invite to join Hack The Box (HTB).
+4. When you go the invite page, you will see a text box asking you for an "invite code."
