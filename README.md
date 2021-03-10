@@ -35,3 +35,6 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 12. As we can see in Decoded Text, in order to generate an invite code, we need to make a POST request to “https://www.hackthebox.eu/api/invite/generate”.
 
 13. Fire up your terminal/ command-prompt. And make a POST request by typing:
+
+    ```curl-XPOST https://www.hackthebox.eu/api/invite/generate```
+
