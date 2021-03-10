@@ -45,3 +45,5 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 15. As you saw, we code a code. But this is not our invite code as it says format:encoded.
 
 16. Try decoding it by using a decoder. 
+
+17. This time, select type as Base64. Paste the code you got as the response of the POST request into the Encoded Text box and press Decode. Voila! You get your invite code.
