@@ -46,4 +46,4 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 
 16. Try decoding it by using a decoder. 
 
-17. This time, select type as Base64. Paste the code you got as the response of the POST request into the Encoded Text box and press Decode. Voila! You get your invite code.
+17. This time, select type as <b>Base64</b>. Paste the code you got as the response of the POST request into the Encoded Text box and press Decode. Voila! You get your invite code.
