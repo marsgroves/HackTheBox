@@ -49,3 +49,5 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 17. This time, select type as <b>Base64</b>. Paste the code you got as the response of the POST request into the Encoded Text box and press Decode. Voila! You get your invite code.
 
 <img src="https://miro.medium.com/max/1400/1*TtmI32KSF6IQn17rpChTew.jpeg">
+
+18. Now, finally go to https://www.hackthebox.eu/invite and paste the Invite Code you got in the textbox asking for the same.
