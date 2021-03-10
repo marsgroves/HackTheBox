@@ -32,4 +32,6 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 
 11. Select type: ROT13, paste the copied data onto the Encoded Text box and click Decode. You will get something like below.
 
-12. So, as we can see in Decoded Text, in order to generate an invite code, we need to make a POST request to “https://www.hackthebox.eu/api/invite/generate”.
+12. As we can see in Decoded Text, in order to generate an invite code, we need to make a POST request to “https://www.hackthebox.eu/api/invite/generate”.
+
+13. Fire up your terminal/ command-prompt. And make a POST request by typing:
