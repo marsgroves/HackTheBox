@@ -43,3 +43,5 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
     ```{“success”:1,”data”:{“code”: “somerandomcharacters12345”, “format”: “encoded”}, “0”:200}```
 
 15. As you saw, we code a code. But this is not our invite code as it says format:encoded.
+
+16. Try decoding it by using a decoder. 
