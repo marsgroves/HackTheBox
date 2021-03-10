@@ -53,3 +53,5 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 18. Now, finally go to https://www.hackthebox.eu/invite and paste the Invite Code you got in the textbox asking for the same.
 
 19. You’re in! You can sign up on the site now and become a member.
+
+# Happy Hacking!
