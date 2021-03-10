@@ -29,3 +29,5 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 <img src="https://miro.medium.com/max/700/1*aMf_Gn0CLJNpRHVMz5zW5A.jpeg">See the hint and data</a>
 
 10. When you click the small arrow alongside data, you will see that the text is encrypted and the encoding type is <b>ROT13</b>.
+
+11. Select type: ROT13, paste the copied data onto the Encoded Text box and click Decode. You will get something like below.
