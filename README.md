@@ -31,3 +31,5 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 10. When you click the small arrow alongside data, you will see that the text is encrypted and the encoding type is <b>ROT13</b>.
 
 11. Select type: ROT13, paste the copied data onto the Encoded Text box and click Decode. You will get something like below.
+
+12. So, as we can see in Decoded Text, in order to generate an invite code, we need to make a POST request to “https://www.hackthebox.eu/api/invite/generate”.
