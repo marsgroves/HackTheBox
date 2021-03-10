@@ -38,3 +38,4 @@ I'll give you a walkthrough and how you can get your "invite code" to get starte
 
     ```curl-XPOST https://www.hackthebox.eu/api/invite/generate```
 
+14. You will get a success message as:
